@@ -1,0 +1,33 @@
+- title: Material Engineering
+  title-url: https://www.iut.ac.ir/en
+  date: Sep 2015 - Aug 2020
+  subtitle: Material Engineer
+  tags:
+    - tag:  
+  timeline-side: right
+
+- title: Development
+  title-url: https://laravel.com/
+  date: Mar 2021 - Jul 2022
+  subtitle: Self Study
+  tags:
+    - tag: PHP
+    - tag: Python
+    - tag: Laravel
+  timeline-side: left
+
+- title: Full-Stack
+  title-url: https://react.com/
+  date: Nov 2022 - Present
+  subtitle: Developer
+  tags:
+    - tag: Networking
+    - tag: React
+    - tag: Laravel
+  timeline-side: right
+
+- title: Business
+  title-url: https://tikaval.com/
+  date: Nov 2022 - Present
+  subtitle: Developer
+  timeline-side: left

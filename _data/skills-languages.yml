@@ -1,0 +1,8 @@
+- name: PHP
+  weight: 5
+
+- name: Python
+  weight: 4
+
+- name: JS
+  weight: 3

@@ -1,0 +1,20 @@
+- name: GitLab
+  weight: 5
+
+- name: Git
+  weight: 5
+
+- name: MYSQL
+  weight: 5
+
+- name: MongoDB
+  weight: 4
+
+- name: Bash
+  weight: 4
+
+- name: Cryptography
+  weight: 2
+
+- name: Docker
+  weight: 1
