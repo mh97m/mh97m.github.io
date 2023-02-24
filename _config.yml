@@ -3,19 +3,17 @@ description: pej-man's Personal Website
 baseurl: ""
 
 username: pejman montazeri
-typing_text: Back-end Developer / Front-end Developer
+typing_text: Front-end / Back-end Developer
 
-email: davit.kobalia.1@btu.edu.ge
-telegram_username: in_solitum
-linkedin_username: dkobalia
-github_username: insolitum
-facebook_username: DaWeedGone
-instagram_username: __m.artian__
-viber_number: 995599014780
+email: pejmanly@gmail.com
+telegram_username: pejgman
+linkedin_username: mohamad-hosein-montazeri
+github_username: pej-man
+instagram_username: i._.pejman
 
 show_aboutme_card: false
 about_me_title: About Me
-about_me_description: <empty>
+about_me_description: I would introduce myself as a full-stack developer with expertise in Laravel, Python, and React, as well as a strong command of HTML, CSS, and JavaScript. I have experience working with MySQL and MongoDB databases, and I am skilled in RESTful API structure. I am confident in my abilities as a developer and am always eager to learn new technologies and expand my skill set.
 
 show_skills_card: true
 skills_title: Skills
